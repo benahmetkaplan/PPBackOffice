@@ -1,0 +1,6 @@
+@PPBackOfficeWeb_HostAddress = http://localhost:5129
+
+GET {{PPBackOfficeWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
